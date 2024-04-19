@@ -5,3 +5,6 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
+<!--Java Web应用中，当应用启动后，浏览器会显示默认的首页。这个首页是由Web服务器决定的，通常是在Web应用的配置文件（如web.xml）中指定的。如果没
+有明确指定默认的首页，那么Web服务器可能会选择Web应用的根目录下的index.jsp作为默认的首页。  在您的项目中，我看到了一个名为index.jsp的文件。这个
+文件可能就是您在浏览器中看到的页面。当您启动应用后，Web服务器可能会自动将请求重定向到这个index.jsp页面，因此您在浏览器中看到的就是这个页面。-->
